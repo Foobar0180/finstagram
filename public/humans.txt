@@ -1,0 +1,15 @@
+# The humans responsible and technology colophon
+
+# OUR THANKS
+# We would like to acknowledge the contributions of the following 
+# people who have made a responsible disclosure to us:
+
+<name/>     <twitter/>
+
+# CONTACTS
+
+<email/>    <description/>
+
+# TECHNOLOGY COLOPHON
+
+CSS3, HTML5, Apache Server Configs, Normalize.css

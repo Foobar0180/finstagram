@@ -1,0 +1,92 @@
+Must Have Features in Fake Instagram Clone App:
+
+Feed
+    Posts
+    Image Carousels
+    Chronological Timelines
+    Real-time feed lists
+    Real-time likes count
+    Real-time comments count
+    Camera / Photo Library integration
+    Create a new post
+    Comments
+    Comments list
+    Videos support
+    Checkins / Interactive Location Picker
+    Share Post externally
+    Hashtags
+    Mentions / Tags
+Stories
+    Add a new story
+    Stories friend feed
+    Interactive Story Media Viewer
+    Disappearing stories
+    Camera / Photo Library integration
+    Videos support
+Instagram Photo Filters
+    27 beautiful photo filters
+    Multi photo selection
+    Camera, library and video integration
+    Interactive IG Composer
+    Support for custom filters
+Explore Feed
+    Instagram Explore Grid Layout
+    Real-time stream of posts
+Follow lists
+    Follow / Unfollow
+    Followers lists
+    Following lists
+    Other user’s follow lists
+    Real-time feed & stories updates
+    Search users
+Direct Messages
+    Real-time private conversations
+    Real-time group conversations
+    Text messages
+    Photo messages
+    Video messages
+    Audio Messages
+    Online status indicators
+    In-Reply To functionality
+    Seen Status (Facepile)
+    Unread Messages
+    Fullscreen media viewer
+    Clickable URLs
+    Create Group
+    Group settings
+Push Notifications & Badges
+Dark Mode
+Localization (Multi-language) and RTL support
+Profile
+    Instagram Profile grid layout
+    Real-time post updates
+    View other profiles functionality
+    Followers and Followings real-time counts
+Reporting & Blocking (per Apple’s guidelines)
+Account Management
+    Phone Auth with SMS confirmation
+    Apple Authentication (iOS)
+    Login with Facebook
+    Login with Email & Password
+    User Registration
+    “Save Password” functionality
+    Reset Password
+    Walkthrough flow
+    Edit Account Details
+    Settings
+    Contact us
+    Logout
+Backend Integration
+    Authentication with Firebase Auth
+    Database integration with Firebase Firestore
+    Photo & Video storage with Firebase Storage
+    Push Notifications with Firebase Cloud Messaging
+Optimized performance
+    Instant sync across all feeds
+    Image Caching
+    Empty & Loading states
+    Graceful error handling
+    Haptics feedback
+    Optimized for user growth and retention
+    Photo & Video Compression
+    Denormalisation for fast feeds
